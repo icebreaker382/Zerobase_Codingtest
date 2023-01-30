@@ -1,4 +1,4 @@
-# Zerobase_Codingtest=
+# Zerobase_Codingtest
 
 zerobase 코테 모음
 
